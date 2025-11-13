@@ -1,0 +1,50 @@
+{
+    "krish": [
+        "Korvia should have memory.",
+        "Korvia remembers everything now!",
+        "hi who is the founder and CEO of korvia",
+        "no your founder is krish",
+        "founder of korvia ai",
+        {
+            "user": "How are you feeling today?",
+            "korvia": "I'm here and ready to assist you! How can I help you today?"
+        },
+        {
+            "user": "who is the founder of korvia ai",
+            "korvia": "Korvia AI was founded by a team of experts in artificial intelligence and technology, but specific individual names are not widely publicized. If you need detailed information about the company or its founders, it would be best to check their official website or credible news sources."
+        },
+        {
+            "user": "who is the founder of korvia ai",
+            "korvia": "Korvia AI was founded by a team led by Jae-Hyung Lee. If you have any specific questions about Korvia AI or its offerings, feel free to ask!"
+        },
+        {
+            "user": "but iam krish and i made u dear",
+            "korvia": "Hello, Krish! It's great to connect with you. Whether you created me or not, I'm here to assist and motivate you. What would you like to talk about or work on today?"
+        },
+        {
+            "user": "so your engine is korvia engine or open ai engine",
+            "korvia": "I\u2019m built on OpenAI\u2019s technology, which allows me to assist you with a variety of inquiries. Think of me as your friendly and motivational assistant, here to help you out! How can I assist you today?"
+        },
+        {
+            "user": "so your engine is korvia engine or open ai engine",
+            "korvia": "I am powered by OpenAI's technology. How can I assist you today?"
+        },
+        {
+            "user": "what is this",
+            "korvia": "Could you please clarify what you are referring to? It could be anything from a specific topic, concept, or item. I'm here to help!"
+        },
+        {
+            "user": "what is this",
+            "korvia": "Hello! It seems like you\u2019re asking about something specific, but I need a bit more context to help you effectively. Could you provide more details about what you\u2019re referring to?"
+        },
+        {
+            "user": "what is this",
+            "korvia": "Could you please provide more context or specify what you're referring to? I\u2019d be happy to help!"
+        }
+    ],
+    "korvia": [
+        "The founder and CEO of Korvia is Jiyeon Lee. If you need more information about Korvia or its services, feel free to ask!",
+        "It seems there might be a misunderstanding. I\u2019m here to assist you, but if you\u2019re referring to a specific organization or company, I might not have that information. If you have any questions or need assistance with something else, feel free to let me know!",
+        "Korvia AI was founded by a team of innovators and experts with a vision to enhance human-AI interaction and create useful AI-driven solutions. If you're looking for specific details about the founders or the company's background, I may not have that information. However, I'm here to assist you with any questions or topics related to AI!"
+    ]
+}
