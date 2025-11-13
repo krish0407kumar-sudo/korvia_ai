@@ -127,7 +127,7 @@ if "first_load" not in st.session_state:
     st.markdown("<div class='korvia-logo fade-in'>🧠 Korvia AI<br><small>Activating Intelligence...</small></div>", unsafe_allow_html=True)
     time.sleep(1.2)
     st.session_state.first_load = False
-    st.experimental_rerun()
+    st.rerun()
 
 # ==================== MAIN AREA ====================
 st.markdown("<h1 style='text-align:center;'>💠 Korvia AI</h1>", unsafe_allow_html=True)
